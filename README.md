@@ -13,4 +13,8 @@
     <li class="text-start"><strong>Spercial Characters:</strong> <p> The password must also have at least one special character (!, % or $ etc.).</p></li>
   </ul><br>
   The user is also able to see or hide the password he taps by clicking the "eye" button.
-</h5></p>
+</h5></p><br><br>
+
+<h2 class="text-start"><strong>SHA-256 Algorithm</strong></h2>
+<img width="611" height="223" alt="image" src="https://github.com/user-attachments/assets/6b91acf7-e863-44e9-aa51-92610fca7532" />
+
