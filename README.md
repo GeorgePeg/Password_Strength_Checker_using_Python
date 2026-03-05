@@ -16,5 +16,5 @@
 </h5></p><br><br>
 
 <h2 class="text-start"><strong>SHA-256 Algorithm</strong></h2>
-<img width="611" height="223" alt="image" src="https://github.com/user-attachments/assets/6b91acf7-e863-44e9-aa51-92610fca7532" />
+<img width="611" height="223" alt="image" src="https://github.com/user-attachments/assets/6b91acf7-e863-44e9-aa51-92610fca7532" /> <label for="image" class="image-label">Image © Web Security Solutions</label> 
 
