@@ -7,9 +7,9 @@
 <h2 class="text-start"><strong>How it works</strong></h2>
 <p><h5>The user creates a password of its will.Then the programm behind the UI evaluates the strength of the password based on four criterias:
   <ul class="text-center">
-    <li class="text-start">Length: The code must have a total length of 8 characters</li>
-    <li class="text-start">Letters</li>
-    <li class="text-start">Digits</li>
-    <li class="text-start">Spercial Characters</li>
+    <li class="text-start"><strong>Length:</strong><p> The password must have a total length of 8 characters. (obviously you can decide how big or small the password should be)</p></li>
+    <li class="text-start"><strong>Letters:</strong>: <p>The use of uppercase and lowercase letters is mandatory.The code must include at least one uppercase and one lowercase letter.</p></li>
+    <li class="text-start"><strong>Digits:</strong> <p>The password must have at least one digit (any from 0 to 9).</p></li>
+    <li class="text-start"><strong>Spercial Characters:</strong> <p> The password must also have at least one special character (!, % or $ etc.).</p></li>
   </ul>
 </h5></p>
