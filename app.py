@@ -1,7 +1,7 @@
 #Author: Georgios Pegiazis
 #Date: 03/03/2026
 #Version: 2.0
-#License: Copyright © 2026 Georgios Pegiazis. All rights reserved.
+#License: Copyright © 2026 Georgios Pegiazis. All rights reserved. GNU GENERAL PUBLIC LICENSE
 #Description: In this project, I fosued on creating a simple password strength checker using Python 3.1.3, using the SHA-256 algorithm for hashing the password. 
 #The following python script checks the strength of a password created by the user based on 4 criteria: length, letters, digits and special characters.
 #Lastly, this script also connects to a simple UI created in HTML and CSS, where the user can input its password and get feedback on its strength.
@@ -76,4 +76,5 @@ def index() :
                     }
     return render_template("index.html", results=results)
 if __name__ == "__main__":
+
     app.run(debug=True)
