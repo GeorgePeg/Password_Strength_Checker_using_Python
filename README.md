@@ -1,5 +1,5 @@
 # Password Strength Checker using Python
-<p><h4>Security online nowadays is more critical than ever before. In this repository you can find out how to make your own password strength checker using Python and how to connect it with a simple UI. You can also see how the Flask, re and hashlib modules of Python work and how to convert a text to a hash value using the SHA-256 encryption algorithm.</h4></p>
+<p><h4>Security online nowadays is more critical than ever before. In this repository you can find out how to make your own password strength checker using Python and how to connect it with a simple UI. You can also see how the Flask, re and hashlib modules of Python work and how to convert a text to a hash value using the SHA-256 hash function.</h4></p>
 <br>
 <img width="3621" height="1889" alt="image" src="https://github.com/user-attachments/assets/f4b2a102-8f55-403c-8f95-fc33c5a2a2bc" />
 <br>
@@ -14,7 +14,7 @@
   </ul><br>
   The user is also able to see or hide the password he taps by clicking the "eye" button.
 </h5></p><br><br>
-<h2 class="text-start"><strong>SHA-256 Algorithm</strong></h2>
+<h2 class="text-start"><strong>SHA-256 Hash Function</strong></h2>
 <img width="611" height="223" alt="image" src="https://github.com/user-attachments/assets/6b91acf7-e863-44e9-aa51-92610fca7532" /> <label for="image" class="image-label">Image belong to:<strong> © Web Security Solutions</strong></label><br>
 <p><h5>SHA-256 (Secure Hash Algorithm) is a cryptographic hash function designed by the National Security Agency (NSA) of the United States and one of the six algorithms from the SHA-2 family. SHA-256 transforms any data into a unique digital fingerprint with fixed legth of 256 bits -or 64 Bytes- in hexademical format.</h5></p>
 
