@@ -15,8 +15,7 @@
   The user is also able to see or hide the password he taps by clicking the "eye" button.
 </h5></p><br><br>
 <h2 class="text-start"><strong>SHA-256 Hash Function</strong></h2>
-<img width="611" height="223" alt="image"
-src="https://www.encryptionconsulting.com/education-center/sha-256/" /> 
+<img width="611" height="223" alt="image"src="https://www.encryptionconsulting.com/education-center/sha-256/"/> 
 <label for="image" class="image-label">Image belong to:<strong> © Web Security Solutions</strong></label>
 <br><br>
 <p><h5>SHA-256 (Secure Hash Algorithm) is a cryptographic hash function designed by the National Security Agency (NSA) of the United States and one of the six algorithms from the SHA-2 family. SHA-256 transforms any data into a unique digital fingerprint with fixed legth of 256 bits -or 64 Bytes- in hexademical format.</h5></p>
